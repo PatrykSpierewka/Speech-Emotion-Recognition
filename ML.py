@@ -151,22 +151,3 @@ Savee_df
 data_path = pd.concat([Ravdess_df, Crema_df, Tess_df, Savee_df], axis = 0)
 data_path.to_csv("data_path.csv",index=False)
 data_path
-
-plt.figure(figsize=(10, 6))
-sns.countplot(data_path.Emotions)
-plt.title('Count of Emotions', size=16)
-plt.ylabel('Count', size=12)
-plt.xlabel('Emotions', size=12)
-sns.despine(top=True, right=True, left=False, bottom=False)
-plt.show()
-
-def create_waveplot(data, sr, e):
-    plt.figure(figsize=(10, 3))
-    plt.title('Waveplot for audio with {} emotion'.format(e), size=15)
-    librosa.display.waveplot(data, sr=sr)
-    plt.show()
-
-emotion='fear'
-path = np.array(data_path.Path[data_path.Emotions==emotion])[1]
-data, sampling_rate = librosa.load(path)
-create_waveplot(data, sampling_rate, emotion)
