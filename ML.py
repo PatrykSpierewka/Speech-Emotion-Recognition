@@ -22,6 +22,8 @@ from keras.models import Sequential
 from keras.layers import Dense, Conv1D, MaxPooling1D, Flatten, Dropout, BatchNormalization
 from keras.utils import np_utils, to_categorical
 from keras.callbacks import ModelCheckpoint
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 import warnings
 if not sys.warnoptions:
@@ -151,3 +153,12 @@ Savee_df
 data_path = pd.concat([Ravdess_df, Crema_df, Tess_df, Savee_df], axis = 0)
 data_path.to_csv("data_path.csv",index=False)
 data_path
+
+data_path = pd.read_csv("data_path.csv")
+plt.figure(figsize=(10, 6))
+sns.countplot(x='Emotions', data=data_path, palette='viridis')
+plt.xlabel('Emotions')
+plt.ylabel('Count')
+plt.title('Number of Recordings for Each Emotion')
+plt.xticks(rotation=45)
+plt.show()
