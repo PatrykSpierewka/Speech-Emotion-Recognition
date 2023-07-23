@@ -162,3 +162,9 @@ plt.ylabel('Count')
 plt.title('Number of Recordings for Each Emotion')
 plt.xticks(rotation=45)
 plt.show()
+
+
+index_to_play = 0
+audio_file_path = data_path.iloc[index_to_play]['Path']
+audio, sr = librosa.load(audio_file_path)
+Audio(audio, rate=sr)
