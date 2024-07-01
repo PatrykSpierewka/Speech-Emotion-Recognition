@@ -16,3 +16,7 @@ Implementation focused on developing deep convolutional neural networks for auto
   ![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/bf6867dd-bd1b-4379-b129-3e234e1bdde1)
 
 </p>
+
+<p align="center">
+    <img width="647" alt="Zrzut ekranu 2023-07-22 o 18 09 41" src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/c60f0ae0-5fab-4d59-bd92-b9556b35cfd4">
+</p>
