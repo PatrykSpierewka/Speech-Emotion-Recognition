@@ -7,8 +7,10 @@ Implementation focused on developing deep convolutional neural networks for auto
 ### Music
 <p align="center">
   
-  ![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/c60f0ae0-5fab-4d59-bd92-b9556b35cfd4)
+  ![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/eaff216f-5051-4bf1-900d-1557992217b2)
   
+  ![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/52133209-bbdd-4f60-a794-3be0810b8b4a)
+
   ![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/31fa649b-d0e1-43d4-b0cf-f8b7d32917d3)
 
   ![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/6f245dc7-1754-4c03-b7f4-3c6cec80aa17)
