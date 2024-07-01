@@ -5,10 +5,24 @@ Implementation focused on developing deep convolutional neural networks for auto
 
 
 ### Music
-![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/c60f0ae0-5fab-4d59-bd92-b9556b35cfd4)
-![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/31fa649b-d0e1-43d4-b0cf-f8b7d32917d3)
-![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/6f245dc7-1754-4c03-b7f4-3c6cec80aa17)
-![image](https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/bf6867dd-bd1b-4379-b129-3e234e1bdde1)
+<p align="center">
+  <img src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/blob/main/assets/101202344/c60f0ae0-5fab-4d59-bd92-b9556b35cfd4" alt="Music Image 1" width="200"><br>
+  Music Image 1
+</p>
 
+<p align="center">
+  <img src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/blob/main/assets/101202344/31fa649b-d0e1-43d4-b0cf-f8b7d32917d3" alt="Music Image 2" width="250"><br>
+  Music Image 2
+</p>
+
+<p align="center">
+  <img src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/blob/main/assets/101202344/6f245dc7-1754-4c03-b7f4-3c6cec80aa17" alt="Music Image 3" width="300"><br>
+  Music Image 3
+</p>
+
+<p align="center">
+  <img src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/blob/main/assets/101202344/bf6867dd-bd1b-4379-b129-3e234e1bdde1" alt="Music Image 4" width="180"><br>
+  Music Image 4
+</p>
 
 
