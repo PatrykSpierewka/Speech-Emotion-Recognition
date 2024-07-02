@@ -5,6 +5,10 @@ Implementation of deep convolutional neural networks for automatic recognition o
     <img src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/1b66f045-444d-4732-9cfc-a7a8f8291583">
 </p>
 
+<p align="center">
+    <img src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/81c9e0b1-1fd5-4ec3-b04f-d10aa99f16a8">
+</p>
+
 ### Speech
 
 
