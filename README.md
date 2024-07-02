@@ -11,5 +11,5 @@ Implementation focused on developing deep convolutional neural networks for auto
 ### Music
 
 <p align="center">
-    <img width="347" alt="Zrzut ekranu 2" src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/bb79e3f8-b15c-40ac-a8f3-f96fdde7402a">
+    <img alt="Zrzut ekranu 2" src="https://github.com/PatrykSpierewka/Speech-Emotion-Recognition/assets/101202344/bb79e3f8-b15c-40ac-a8f3-f96fdde7402a">
 </p>
